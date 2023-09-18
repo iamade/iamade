@@ -1,6 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adesegun Koiki Software Engineer Fullstack
 
-I am a software engineer who loves various technologies like MERN, MEAN, .Netcore, Unity, Machine learning and Artificial Intelligence, Python* 🌍  I'm based in Nigeria* 🖥️  See my portfolio at [http://adesegun-koiki.netlify.app/#](http://adesegun-koiki.netlify.app/#)* ✉️  You can contact me at [adesegunkamarkoiki@gmail.com](mailto:adesegunkamarkoiki@gmail.com)* 🧠  I'm learning Blockchain, Embedded systems, Unity games developement* 🤝  I'm open to collaborating on Projects* ⚡  I am Ironman and Black panther altogether.
+I am a software engineer who loves various technologies like MERN, MEAN, .Netcore, Unity, Machine learning and Artificial Intelligence, Python
+
+* 🌍  I'm based in Nigeria
+* 🖥️  See my portfolio at [http://adesegun-koiki.netlify.app/#](http://adesegun-koiki.netlify.app/#)
+* ✉️  You can contact me at [adesegunkamarkoiki@gmail.com](mailto:adesegunkamarkoiki@gmail.com)
+* 🧠  I'm learning Blockchain, Embedded systems, Unity games developement
+* 🤝  I'm open to collaborating on Projects
+* ⚡  I am Ironman and Black panther altogether.
 
 ### Skills
 
