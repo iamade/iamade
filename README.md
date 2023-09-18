@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adesegun Koiki Software Engineer Fullstack
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Adesegun Koiki ** Software Engineer Fullstack
 
 I am a software engineer who loves various technologies like MERN, MEAN, .Netcore, Unity, Machine learning and Artificial Intelligence, Python
 
