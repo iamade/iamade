@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a software engineer who loves various technologies like MERN, MEAN, .Net, Unity, Blockchain, Solidity, Ruby on Rails, Machine learning and Artificial Intelligence, Python
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [http://adesegun-koiki.netlify.app/#](http://adesegun-koiki.netlify.app/#)
 * ✉️  You can contact me at [adesegunkamarkoiki@gmail.com](mailto:adesegunkamarkoiki@gmail.com)
 * 🧠  I'm learning Blockchain, Embedded systems, Unity games developement
